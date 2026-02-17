@@ -1,87 +1,61 @@
-# Welcome to React Router!
+# 📄 Resumind – AI Resume Analyzer
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Analyze your resume instantly using AI and get actionable feedback to improve your chances of getting hired.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
-
-## Features
-
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
-
-## Getting Started
-
-### Installation
-
-Install the dependencies:
-
-```bash
-npm install
-```
-
-### Development
-
-Start the development server with HMR:
-
-```bash
-npm run dev
-```
-
-Your application will be available at `http://localhost:5173`.
-
-## Building for Production
-
-Create a production build:
-
-```bash
-npm run build
-```
-
-## Deployment
-
-### Docker Deployment
-
-To build and run using Docker:
-
-```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
-```
-
-The containerized application can be deployed to any platform that supports Docker, including:
-
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
-
-### DIY Deployment
-
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+Resumind reviews your CV like a recruiter and highlights mistakes, missing skills, and improvement areas.
 
 ---
 
-Built with ❤️ using React Router.
+## 🚀 Live Demo
+https://resumind.vercel.app](https://ai-resume-analyzer-ten-rust.vercel.app/
+
+---
+
+## ✨ Features
+
+- 📑 Upload PDF Resume
+- 🧠 AI Resume Analysis
+- 📊 ATS Compatibility Score
+- ❌ Mistake Detection
+- 💡 Improvement Suggestions
+- 🏷️ Skills Gap Identification
+- 🎯 Job Match Feedback
+- ☁️ Cloud Resume Storage
+- 🔐 Secure Authentication
+- ⚡ Fast Processing
+
+---
+
+## 🧪 How It Works
+
+1. Upload your resume (PDF)
+2. AI extracts content
+3. Resume gets analyzed
+4. Receive detailed feedback
+5. Improve & re-upload
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- HTML
+- CSS
+- Javascript
+- React
+- Vite
+- Tailwind CSS
+- Zustand
+
+### Backend / AI
+- Puter.js Cloud Storage
+- AI Text Analysis API
+- PDF → Image Processing
+- Serverless Functions
+
+### Deployment
+- Vercel
+
+---
+
