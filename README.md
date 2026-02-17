@@ -7,7 +7,7 @@ Resumind reviews your CV like a recruiter and highlights mistakes, missing skill
 ---
 
 ## 🚀 Live Demo
-[https://resumind.vercel.app](https://ai-resume-analyzer-ten-rust.vercel.app/](https://ai-resume-analyzer-ten-rust.vercel.app/)
+[https://resumind.vercel.app]
 
 ---
 
